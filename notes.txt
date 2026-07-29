@@ -4,3 +4,4 @@ third line
 fourth line
 an experimental idea
 this is master branch
+this is conflict branch
